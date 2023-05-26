@@ -1,6 +1,6 @@
 <h1>Food Hunter</h1>
 <p>This project is mainly based on Chef hunting where user can get easily find world best chefs</p>
-<br/>
+
 <h2>Live Link</h2>
 <p>Hosted in Netlify -> <a href="https://food-hunter-bc423.web.app/">Food Hunter</a></p>
 <h2>Technologies Used</h2>
