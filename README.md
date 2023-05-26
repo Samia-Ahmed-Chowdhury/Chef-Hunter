@@ -1,5 +1,5 @@
 <h1>Food Hunter</h1>
-<p>This is project for Assignment 10</p>
+<p>This project is mainly based on Chef hunting where user can get easily find world best chefs</p>
 <hr/>
 <br/>
 <h2>Live Link</h2>
