@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.myButton {
+    @apply btn bg-primaryColor border-0 rounded-[8px] py-3 px-5 md:px-7 text-white text-[17px] md:text-lg 
+}
+

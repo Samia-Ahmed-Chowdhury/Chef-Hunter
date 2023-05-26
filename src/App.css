@@ -1,0 +1,27 @@
+li a.active{
+  color: #F08428;
+  background: none;
+}
+
+li a:hover{
+  background: none;
+  border-bottom: 2px solid #F08428;
+}
+.hr_design{
+  border: none;
+    border-top: 2px double #ededed;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+}
+.background{
+  background-image: url("https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-10115.jpg");
+  background-size: cover;
+}
+.hr_design:after {
+  content: 'Or';
+  background: white;
+  padding: 0 10px;
+  position: relative;
+  top: -13px;
+}

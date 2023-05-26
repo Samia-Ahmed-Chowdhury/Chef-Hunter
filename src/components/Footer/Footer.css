@@ -1,0 +1,27 @@
+footer {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzw8cPQRq_DQlNzcEWNI4ZpS_n-AuytyR20w&usqp=CAU");
+    background-size: cover;
+    border-radius: 50px 50px 0 0;
+    background-repeat: no-repeat;
+}
+
+footer form input {
+    width: 100%;
+    max-width: 257px;
+    height: 47px;
+    border: 2px solid #F08428;
+    border-radius: 4px 0px 0px 4px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #757575;
+    font-weight: 400;
+    font-family: "Inter";
+    padding-left: 25px;
+}
+
+
+@media only screen and (max-width:991px) {
+    footer {
+        border-radius: 40px 40px 0 0;
+    }
+}
