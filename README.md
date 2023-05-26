@@ -1,10 +1,8 @@
 <h1>Food Hunter</h1>
 <p>This project is mainly based on Chef hunting where user can get easily find world best chefs</p>
-<hr/>
 <br/>
 <h2>Live Link</h2>
 <p>Hosted in Netlify -> <a href="https://food-hunter-bc423.web.app/">Food Hunter</a></p>
-<hr/>
 <h2>Technologies Used</h2>
 <ul>
 <li>HTML</li>
@@ -21,7 +19,6 @@
 </ul><ul>
 <li>Express JS</li>
 </ul>
-<hr>
 <h2>Features</h2>
 <ul>
 <li>It is italian cuisine.. User can see WOrld Top Class Chefs details  </li>
